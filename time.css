@@ -1,0 +1,14 @@
+#datenow2{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    text-align: center;
+    text-shadow: 0 1px rgba(255,255,255,.5);
+    margin: 0 auto;
+    height: 17vw;
+    line-height: 17vw;
+    font-size: 17vw;
+    vertical-align: bottom;
+    transition: .2s all ease 0s;
+    font-family: Graduate, cursive;
+    color: rgb(153, 85, 119);
+}
