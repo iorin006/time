@@ -32,4 +32,4 @@ function nowdate() {
 }
 
 
- setInterval(nowdate, 500)
+ setInterval(nowdate, 0)
